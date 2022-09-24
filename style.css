@@ -1,0 +1,10 @@
+*{margin:0;padding:0}
+.header {background:#0099ff;padding:10px}
+.header h2 {font-family: 'Shadows Into Light', cursive;font-size: 60px}
+.header h2 a {text-decoration:none;color:#fff;margin-left:40px;text-shadow: 5px 3px #283e3e}
+.content {background: #eff5f5; text-align: center;padding-bottom:150px}
+.content h2 {font-family: 'Lobster', cursive;font-size: 50px;font-weight:normal;padding-top:65px}
+.content h4 {font-family: 'Dancing Script', cursive;font-weight:400;font-size:20px;margin-top:15px;margin-bottom: 35px}
+.content p {font-family:'Amatic SC', cursive; font-weight:700;letter-spacing:1px;line-height:50px;font-size:20px}
+.content p a {background:#0099ff;text-decoration:none;color:#ffffff;font-family:'Mali', cursive;padding:20px;border:2px solid #000000;border-radius:20px}
+.content p a:hover {background: #efa609;color:#000}
